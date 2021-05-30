@@ -66,3 +66,4 @@ function moveRight(){
     left = false
     right = true
 }
+
